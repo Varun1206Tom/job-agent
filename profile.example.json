@@ -1,0 +1,11 @@
+{
+  "name": "Varun Jangale",
+  "yearsExperience": 3,
+  "currentLocation": "City",
+  "openToLocations": ["City", "Remote"],
+  "skills": ["React.js", "TypeScript"],
+  "highlights": ["One-line achievement"],
+  "salaryRangeLPA": [0, 0],
+  "noticePeriodDays": 30,
+  "github": "github.com/yourname"
+}

@@ -1,0 +1,9 @@
+node_modules
+.env
+resume.pdf
+agent-log.txt
+jobs/
+profile.json
+job.txt
+test.txt
+*.log
